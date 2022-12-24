@@ -12,7 +12,7 @@
        |magazines
 
 
-**MEthod-Practice**
+**Method-Practice**
 
 
 
